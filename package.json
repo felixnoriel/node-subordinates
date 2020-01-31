@@ -4,7 +4,7 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require ts-node/register --recursive tests/*.ts tests/**/*.ts",
+    "test": "mocha --require ts-node/register --recursive tests/*.test.ts",
     "validate": "ts-node ./index.ts"
   },
   "author": "Felix Noriel",
