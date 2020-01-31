@@ -12,6 +12,6 @@ Application to retrieve subordinates of a given users and roles
 -   npm run test
 
 ## Folder/File directory
-`/src/index.ts` contains the subordinate class
-`/src/model/index.ts` contains types/interfaces of the User and Role object
-`/tests/index.test.ts` contains unit tests
+- `/src/index.ts` contains the subordinate class
+- `/src/model/index.ts` contains types/interfaces of the User and Role object
+- `/tests/index.test.ts` contains unit tests
