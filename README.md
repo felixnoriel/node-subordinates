@@ -3,7 +3,7 @@
 Application to retrieve subordinates of a given users and roles
 
 ## Getting Started
-- Download this repo
+- Download this repo (master branch)
 - Make sure you have Node(latest stable version) installed
 
 ## Running
